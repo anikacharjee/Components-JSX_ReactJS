@@ -1,6 +1,6 @@
 import React from 'react';
 
-//Function Component
+//Functional Component
 const HelloWorld = () => { 
     return (
         <div>
