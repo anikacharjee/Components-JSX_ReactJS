@@ -4,6 +4,8 @@
 import React from "react";
 import HelloWorld from "./HelloWorld";
 
+//the App component renders JSX, including the HelloWorld component. 
+//JSX elements can be nested just like HTML elements.
 const App = () => {
   return (
     <div>
